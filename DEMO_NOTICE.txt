@@ -1,0 +1,4 @@
+All data in this repository is synthetic and fictional.
+This is an independent portfolio demonstration, not a real client project.
+No live Shopify store was accessed and no import was performed.
+The prepared output is illustrative and must be validated before any production use.

@@ -1,0 +1,77 @@
+﻿ID interno,SKU,Campo,Valor original,Valor entregado,Regla aplicada
+P001,,Title,  BOTELLA TÉRMICA ACERO 750 ML ,Botella térmica acero 750 ml,Trim extra spaces and standardize title capitalization.
+P001,,URL handle,  Botella_Termica 750ml  ,botella-termica-acero-750-ml,Create a URL-safe lowercase handle from the supplied product title.
+P001,NS-P001-01,Option1 value, negro ,Negro,Trim whitespace and normalize the variant label.
+P001,NS-P001-01,Price,"29,90 €",29.90,Convert a clearly formatted price to a numeric value without currency symbols.
+P001,NS-P001-01,Compare-at price,"39,90 €",39.90,Convert a clearly formatted comparison price to a numeric value.
+P001,NS-P001-01,Weight value (grams),480 g,480,Convert a clearly stated weight to grams.
+P001,NS-P001-02,Price,"29,90 €",29.90,Convert a clearly formatted price to a numeric value without currency symbols.
+P001,NS-P001-02,Compare-at price,"39,90 €",39.90,Convert a clearly formatted comparison price to a numeric value.
+P001,NS-P001-02,Weight value (grams),480 g,480,Convert a clearly stated weight to grams.
+P007,,Vendor,NORTE STUDIO,Norte Studio,Standardize the supplier alias using the consistent source name.
+P007,NS-P007-01,Price,"21,90 €",21.90,Convert a clearly formatted price to a numeric value without currency symbols.
+P007,NS-P007-01,Compare-at price,"31,90 €",31.90,Convert a clearly formatted comparison price to a numeric value.
+P007,NS-P007-01,Weight value (grams),0.24 kg,240,Convert a clearly stated weight to grams.
+P007,NS-P007-02,Price,"21,90 €",21.90,Convert a clearly formatted price to a numeric value without currency symbols.
+P007,NS-P007-02,Compare-at price,"31,90 €",31.90,Convert a clearly formatted comparison price to a numeric value.
+P007,NS-P007-02,Weight value (grams),0.24 kg,240,Convert a clearly stated weight to grams.
+P011,,Vendor,NORTE STUDIO,Norte Studio,Standardize the supplier alias using the consistent source name.
+P011,NS-P011-01,Option1 value,CAREY ,Carey,Trim whitespace and normalize the variant label.
+P011,NS-P011-01,Price,"34,90 €",34.90,Convert a clearly formatted price to a numeric value without currency symbols.
+P011,NS-P011-01,Compare-at price,"44,90 €",44.90,Convert a clearly formatted comparison price to a numeric value.
+P011,NS-P011-01,Weight value (grams),60 g,60,Convert a clearly stated weight to grams.
+P011,NS-P011-02,Price,"34,90 €",34.90,Convert a clearly formatted price to a numeric value without currency symbols.
+P011,NS-P011-02,Compare-at price,"44,90 €",44.90,Convert a clearly formatted comparison price to a numeric value.
+P011,NS-P011-02,Weight value (grams),60 g,60,Convert a clearly stated weight to grams.
+P014,,Vendor,NorteStudio,Norte Studio,Standardize the supplier alias using the consistent source name.
+P014,NS-P014-01,Price," 9,90 ",9.90,Convert a clearly formatted price to a numeric value without currency symbols.
+P014,NS-P014-01,Compare-at price,"19,90 €",19.90,Convert a clearly formatted comparison price to a numeric value.
+P014,NS-P014-01,Weight value (grams),95 g,95,Convert a clearly stated weight to grams.
+P014,NS-P014-02,Price," 9,90 ",9.90,Convert a clearly formatted price to a numeric value without currency symbols.
+P014,NS-P014-02,Compare-at price,"19,90 €",19.90,Convert a clearly formatted comparison price to a numeric value.
+P014,NS-P014-02,Weight value (grams),95 g,95,Convert a clearly stated weight to grams.
+P016,,Title,TECLADO COMPACTO INALÁMBRICO,Teclado compacto inalámbrico,Trim extra spaces and standardize title capitalization.
+P016,,Vendor, norte studio ,Norte Studio,Standardize the supplier alias using the consistent source name.
+P016,,Tags,teclado ; compacto ; oficina,"teclado, compacto, oficina",Split mixed delimiters and normalize whitespace/case.
+P016,NS-P016-01,Price,"36,90 €",36.90,Convert a clearly formatted price to a numeric value without currency symbols.
+P016,NS-P016-01,Compare-at price,"46,90 €",46.90,Convert a clearly formatted comparison price to a numeric value.
+P016,NS-P016-01,Weight value (grams),540 g,540,Convert a clearly stated weight to grams.
+P016,ns-p016-02,Price,"36,90 €",36.90,Convert a clearly formatted price to a numeric value without currency symbols.
+P016,ns-p016-02,Compare-at price,"46,90 €",46.90,Convert a clearly formatted comparison price to a numeric value.
+P016,ns-p016-02,Weight value (grams),540 g,540,Convert a clearly stated weight to grams.
+P020,,Vendor, norte studio ,Norte Studio,Standardize the supplier alias using the consistent source name.
+P020,NS-P020-01,Price,"22,90 €",22.90,Convert a clearly formatted price to a numeric value without currency symbols.
+P020,NS-P020-01,Compare-at price,"32,90 €",32.90,Convert a clearly formatted comparison price to a numeric value.
+P020,NS-P020-01,Weight value (grams),680 g,680,Convert a clearly stated weight to grams.
+P020,NS-P020-02,Price,"22,90 €",22.90,Convert a clearly formatted price to a numeric value without currency symbols.
+P020,NS-P020-02,Compare-at price,"32,90 €",32.90,Convert a clearly formatted comparison price to a numeric value.
+P020,NS-P020-02,Weight value (grams),680 g,680,Convert a clearly stated weight to grams.
+P022,,Vendor,NorteStudio,Norte Studio,Standardize the supplier alias using the consistent source name.
+P022,NS-P022-01,Price,"44,90 €",44.90,Convert a clearly formatted price to a numeric value without currency symbols.
+P022,NS-P022-01,Compare-at price,"54,90 €",54.90,Convert a clearly formatted comparison price to a numeric value.
+P022,NS-P022-01,Weight value (grams),1250 gramos,1250,Convert a clearly stated weight to grams.
+P022,NS-P022-02,Price,"44,90 €",44.90,Convert a clearly formatted price to a numeric value without currency symbols.
+P022,NS-P022-02,Compare-at price,"54,90 €",54.90,Convert a clearly formatted comparison price to a numeric value.
+P022,NS-P022-02,Weight value (grams),1250 gramos,1250,Convert a clearly stated weight to grams.
+P026,,Vendor,NorteStudio,Norte Studio,Standardize the supplier alias using the consistent source name.
+P026,NS-P026-01,Price,"16,50 €",16.50,Convert a clearly formatted price to a numeric value without currency symbols.
+P026,NS-P026-01,Compare-at price,"26,50 €",26.50,Convert a clearly formatted comparison price to a numeric value.
+P026,NS-P026-01,Weight value (grams),210 g,210,Convert a clearly stated weight to grams.
+P026,NS-P026-02,Price,"16,50 €",16.50,Convert a clearly formatted price to a numeric value without currency symbols.
+P026,NS-P026-02,Weight value (grams),210 g,210,Convert a clearly stated weight to grams.
+P028,,Vendor, norte studio ,Norte Studio,Standardize the supplier alias using the consistent source name.
+P028,NS-P028-01,Option1 value,s-m,S-M,Trim whitespace and normalize the variant label.
+P028,NS-P028-01,Price,"8,90 €",8.90,Convert a clearly formatted price to a numeric value without currency symbols.
+P028,NS-P028-01,Compare-at price,"18,90 €",18.90,Convert a clearly formatted comparison price to a numeric value.
+P028,NS-P028-01,Weight value (grams),95 g,95,Convert a clearly stated weight to grams.
+P028,NS-P028-02,Option1 value,l-xl,L-XL,Trim whitespace and normalize the variant label.
+P028,NS-P028-02,Price,"8,90 €",8.90,Convert a clearly formatted price to a numeric value without currency symbols.
+P028,NS-P028-02,Compare-at price,"18,90 €",18.90,Convert a clearly formatted comparison price to a numeric value.
+P028,NS-P028-02,Weight value (grams),95 g,95,Convert a clearly stated weight to grams.
+P030,,Vendor,NorteStudio,Norte Studio,Standardize the supplier alias using the consistent source name.
+P030,NS-P030-01,Price,"12,50 €",12.50,Convert a clearly formatted price to a numeric value without currency symbols.
+P030,NS-P030-01,Compare-at price,"22,50 €",22.50,Convert a clearly formatted comparison price to a numeric value.
+P030,NS-P030-01,Weight value (grams),260 g,260,Convert a clearly stated weight to grams.
+P030,NS-P030-02,Price,"12,50 €",12.50,Convert a clearly formatted price to a numeric value without currency symbols.
+P030,NS-P030-02,Compare-at price,"22,50 €",22.50,Convert a clearly formatted comparison price to a numeric value.
+P030,NS-P030-02,Weight value (grams),260 g,260,Convert a clearly stated weight to grams.
