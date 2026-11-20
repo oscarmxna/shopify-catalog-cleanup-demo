@@ -52,15 +52,27 @@ This demo covers one fictional CSV source file and a structured review/output wo
 
 ### Before and after
 
-![Before and after example](assets/before_after_example.png)
+![Before and after example](before_after_example.png)
 
 ### Quality-control summary
 
-![Quality-control summary](assets/quality_control_summary.png)
+![Quality-control summary](quality_control_summary.png)
 
 ### Deliverables
 
-![Deliverables overview](assets/deliverables_overview.png)
+![Deliverables overview](deliverables_overview.png)
+
+---
+
+## Need help with your Shopify catalog?
+
+I offer Shopify product catalog cleanup and CSV quality checks through Upwork.
+
+- CSV and Excel catalog cleanup
+- SKU and variant validation
+- Price and inventory data checks
+
+**[View CATÁLOGO CLARO on Upwork](https://www.upwork.com/services/product/admin-customer-support-a-cleaned-shopify-product-csv-with-a-clear-qa-report-2123468047155513518)**
 
 ---
 
